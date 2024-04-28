@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labb3_API", "Labb3_API\Labb3_API.csproj", "{B0D60B53-458E-4650-BE1A-C6220ED903ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0D60B53-458E-4650-BE1A-C6220ED903ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0D60B53-458E-4650-BE1A-C6220ED903ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0D60B53-458E-4650-BE1A-C6220ED903ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0D60B53-458E-4650-BE1A-C6220ED903ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B86F3B3-DC13-4A6C-9190-0F5481232717}
+	EndGlobalSection
+EndGlobal
